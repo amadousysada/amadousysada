@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amadousysada&label=Profile%20views&color=0e75b6&style=flat" alt="amadousysada" /> </p>
 
-<p align="left"> <a href="https://github.com/amadousysada/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amadousysada" alt="amadousysada" /></a> </p>
+<p align="left"> <a href="https://github.com/amadousysada/"><img src="https://github-profile-trophy.vercel.app/?username=amadousysada" alt="amadousysada" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Kubernetes**
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/amadousysada/"><img src="https://github-profile-trophy.vercel.app/?username=amadousysada" alt="amadousysada" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Kubernetes**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **python, graphql and SRE**
 
